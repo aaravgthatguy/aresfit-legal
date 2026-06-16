@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AresFit — Privacy Policy</title>
+<style>
+  body { font-family: -apple-system, sans-serif; max-width: 680px; margin: 0 auto; padding: 40px 20px; color: #111; line-height: 1.7; }
+  h1 { font-size: 28px; margin-bottom: 4px; }
+  h2 { font-size: 18px; margin-top: 32px; }
+  p, li { font-size: 15px; color: #333; }
+  .date { color: #888; font-size: 13px; margin-bottom: 32px; }
+  a { color: #000; }
+</style>
+</head>
+<body>
+<h1>Privacy Policy</h1>
+<div class="date">Last updated: June 15, 2026</div>
+
+<p>AresFit ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.</p>
+
+<h2>Information We Collect</h2>
+<p>We collect the following types of information:</p>
+<ul>
+  <li><strong>Account information:</strong> email address and username when you create an account</li>
+  <li><strong>Health and fitness data:</strong> workouts, meals, calories, macros, weight, and steps you log in the app</li>
+  <li><strong>Device data:</strong> device type and iOS version for app compatibility</li>
+  <li><strong>Apple Health data:</strong> only if you grant permission — steps, workouts, and weight</li>
+</ul>
+
+<h2>How We Use Your Information</h2>
+<ul>
+  <li>To provide and improve the AresFit app experience</li>
+  <li>To calculate your nutrition targets and fitness recommendations</li>
+  <li>To power squad features and leaderboards</li>
+  <li>To generate AI-powered meal and workout suggestions</li>
+</ul>
+
+<h2>Data Storage</h2>
+<p>Your data is stored securely using Supabase infrastructure. We use industry-standard encryption for data in transit and at rest.</p>
+
+<h2>Third-Party Services</h2>
+<ul>
+  <li><strong>Supabase</strong> — backend database and authentication</li>
+  <li><strong>Anthropic (Claude API)</strong> — AI features including voice logging and smart coaching</li>
+  <li><strong>USDA FoodData Central</strong> — food nutrition database</li>
+  <li><strong>Open Food Facts</strong> — food product database</li>
+  <li><strong>Apple HealthKit</strong> — health data sync (optional)</li>
+  <li><strong>Apple StoreKit</strong> — subscription payments</li>
+</ul>
+
+<h2>Data Sharing</h2>
+<p>We do not sell your personal data. We do not share your data with third parties except as required to operate the app (listed above) or as required by law.</p>
+
+<h2>Your Rights</h2>
+<p>You can delete your account and all associated data at any time from the Profile tab in the app. You can also revoke Apple Health permissions at any time from your iPhone Settings.</p>
+
+<h2>Children's Privacy</h2>
+<p>AresFit is not directed to children under 13. We do not knowingly collect personal information from children under 13.</p>
+
+<h2>Contact Us</h2>
+<p>If you have questions about this Privacy Policy, contact us at <a href="mailto:aaravg@icloud.com">aaravg@icloud.com</a>.</p>
+
+</body>
+</html>
