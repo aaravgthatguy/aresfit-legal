@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AresFit — Terms of Service</title>
+<style>
+  body { font-family: -apple-system, sans-serif; max-width: 680px; margin: 0 auto; padding: 40px 20px; color: #111; line-height: 1.7; }
+  h1 { font-size: 28px; margin-bottom: 4px; }
+  h2 { font-size: 18px; margin-top: 32px; }
+  p, li { font-size: 15px; color: #333; }
+  .date { color: #888; font-size: 13px; margin-bottom: 32px; }
+  a { color: #000; }
+</style>
+</head>
+<body>
+<h1>Terms of Service</h1>
+<div class="date">Last updated: June 15, 2026</div>
+
+<p>By downloading or using AresFit, you agree to these Terms of Service. Please read them carefully.</p>
+
+<h2>Use of the App</h2>
+<p>AresFit is a fitness tracking application. You must be 13 years or older to use the app. You are responsible for maintaining the security of your account credentials.</p>
+
+<h2>Health Disclaimer</h2>
+<p>AresFit is not a medical application. The nutrition and fitness information provided is for general wellness purposes only and is not intended as medical advice. Always consult a qualified healthcare professional before starting any diet or exercise program.</p>
+
+<h2>User Content</h2>
+<p>You retain ownership of any data you enter into AresFit. By using the app, you grant us a license to use that data to provide and improve our services.</p>
+
+<h2>Subscriptions</h2>
+<ul>
+  <li>AresFit offers optional premium subscriptions (monthly, annual, and lifetime)</li>
+  <li>Subscriptions are billed through your Apple ID</li>
+  <li>Subscriptions auto-renew unless cancelled at least 24 hours before the renewal date</li>
+  <li>You can manage or cancel subscriptions in your Apple ID Settings</li>
+  <li>No refunds are provided for partial subscription periods</li>
+</ul>
+
+<h2>Prohibited Conduct</h2>
+<p>You agree not to:</p>
+<ul>
+  <li>Use the app for any unlawful purpose</li>
+  <li>Attempt to reverse engineer or hack the app</li>
+  <li>Use the squad features to harass or harm other users</li>
+  <li>Create fake accounts or manipulate leaderboards</li>
+</ul>
+
+<h2>Termination</h2>
+<p>We reserve the right to suspend or terminate your account if you violate these terms. You may delete your account at any time from the Profile tab.</p>
+
+<h2>Limitation of Liability</h2>
+<p>AresFit is provided "as is" without warranties of any kind. We are not liable for any damages arising from your use of the app, including any health outcomes.</p>
+
+<h2>Changes to Terms</h2>
+<p>We may update these terms from time to time. Continued use of the app after changes means you accept the new terms.</p>
+
+<h2>Contact</h2>
+<p>For questions about these terms, contact us at <a href="mailto:aaravg@icloud.com">aaravg@icloud.com</a>.</p>
+
+</body>
+</html>
